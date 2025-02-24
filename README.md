@@ -1,24 +1,23 @@
 # React Native Flexbox Demo
 
-This project demonstrates an interactive Flexbox demo built with React Native. Users can adjust various Flexbox properties (such as `flexDirection`, `justifyContent`, `alignItems`, and more) using sliders and pickers to see real-time layout changes. The app is designed to work on both iOS and Android, with special adjustments for each platform.
+This project demonstrates an interactive Flexbox demo built with React Native. The repository contains two main screens:
+- **FlexboxDemoScreen.js**: An interactive demo for adjusting various Flexbox properties.
+- **NavigationOverviewScreen.js**: A navigation overview to switch between demo screens.
 
 ## Features
 
-- **Interactive Layout Controls**: Adjust Flexbox properties like direction, wrapping, alignment, growth, and shrinkage.
+- **Interactive Layout Controls**: Adjust Flexbox properties such as direction, wrapping, alignment, growth, and shrinkage.
 - **Real-time Preview**: Watch your layout update instantly as you modify settings.
-- **Modal Descriptions**: Tap the info icons to get more details about each property.
-- **Platform-Specific Styling**: Uses native components for iOS and Android, with tailored behaviors for each.
+- **Modal Descriptions**: Tap the info icons to learn more about each property.
+- **Platform-Specific Styling**: Optimized for both iOS and Android.
 
 ## Demo
 
-Check out the interactive demo below:
+Click the button below to open the demo on Expo Snack:
 
-<div data-snack-id="@yahyaalsalmi/reactplayground" data-snack-platform="web" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#0C0D0E;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%"></div>
-<script async src="https://snack.expo.dev/embed.js"></script>
+[![Open in Expo Snack](https://img.shields.io/badge/Open%20in-Expo%20Snack-blue?logo=expo)](https://snack.expo.dev/@yahyaalsalmi/reactplayground)
 
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request. For major changes, open an issue first to discuss what you would like to change.
+You can also visit the demo directly at [https://snack.expo.dev/@yahyaalsalmi/reactplayground](https://snack.expo.dev/@yahyaalsalmi/reactplayground).
 
 ## License
 
